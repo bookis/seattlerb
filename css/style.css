@@ -72,6 +72,7 @@ address {margin: 0}
 #join-us #map {
   background: white;
   border: none;
+  margin-top: 0;
 }
 
 #join-us #map iframe {

@@ -161,3 +161,12 @@ abbr.amp {
   height: 50px;
 }
 /*...PEOPLE*/
+
+/* PROJECTS...*/
+.project:first-child {
+  border: none;
+}
+.project {
+  border-top: 1px dotted #ddd;
+  padding-top: 5px;
+}

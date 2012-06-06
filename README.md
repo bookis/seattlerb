@@ -1,4 +1,4 @@
 seattlerb
 =========
 
-Redesign of Seattle.rb
+Redesign of Seattle.rb using bootstrap.

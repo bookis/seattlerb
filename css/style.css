@@ -31,6 +31,10 @@ div[role=main] {
   border-radius: 3px;
 }
 
+.navbar .nav li a:hover {
+  background-color: #c70000;
+}
+
 footer {
   background-color: #C3D9FF;
   padding: 5px;

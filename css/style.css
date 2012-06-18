@@ -16,6 +16,10 @@ div[role=main] {
   line-height: 0.8 !important;
 }
 
+h2 {
+  color: #b00800;
+}
+
 .navbar .nav {
   margin-top: 8px;
 }
@@ -37,8 +41,12 @@ div[role=main] {
 
 footer {
   background-color: #C3D9FF;
-  padding: 5px;
+  padding: 7px 30px;
+  font-weight: 200;
+  font-size: 120%;
+  color: #8A9AB5;
   margin-top: 10px;
+  text-align: center;
 }
 
 table tr td {

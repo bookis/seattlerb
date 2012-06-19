@@ -66,8 +66,20 @@ address {margin: 0}
 .hero-unit {
   background: #fff url(../img/seattle_rb_logo_big.png) no-repeat left center;
   padding-left: 200px;
+  margin-bottom: 10px;
 }
 
+.hero-unit p {
+  line-height: 1.4;
+}
+
+.hero-unit h2 {
+  font-weight: 200;
+  font-size: 150%;
+  margin: 0 0 20px 3px;
+  color: black;
+  line-height: 0.5;
+}
 #map {
   color: #333;
   border: 1px solid #A9BBDD;

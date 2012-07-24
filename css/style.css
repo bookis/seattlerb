@@ -19,6 +19,7 @@ div[role=main] {
 h2 {
   color: #b00800;
   line-height: 1.2;
+  font-size: 200%;
 }
 
 .navbar .nav {
@@ -172,7 +173,7 @@ abbr.amp {
 }
 .links li {
   display: inline-block;
-  margin: 5px;
+  margin: 0 5px;
 }
 .mini-profile {
   margin-top: 15px;
@@ -180,15 +181,21 @@ abbr.amp {
   border-radius: 3px;
   moz-border-radius: 3px;
   webkit-border-radius: 3px;
-  height: 130px;
+  height: 110px;
   background-color: #ddd;
 }
 
-.mini-profile img {
-  float: left;
-  margin: 5px 5px 0px 5px;
-  height: 50px;
+.mini-profile h2 {
+  font-size: 200%;
+  margin: 5px 10px 0px 10px;
+  line-height: 1;
 }
+
+.mini-profile p {
+  margin: 0 12px;
+  height: 55px;
+}
+
 /*...PEOPLE*/
 
 /* PROJECTS...*/
